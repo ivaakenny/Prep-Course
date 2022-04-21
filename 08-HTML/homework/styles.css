@@ -1,0 +1,28 @@
+h1{
+    color: orange;
+}
+#spanId{
+font-size: 18px;
+margin: 50px;
+}
+h3{color: rgb(194, 214, 16);}
+h4{color: black;
+    font-size: larger;}
+    
+    #thirdDiv li{
+    list-style: none;
+    
+}
+#thirdDiv ul li img{
+        width: 400px;
+    
+}
+#thirdDiv {
+width: 500;  /*ancho */
+height: 600;  /*alto */
+background-color: yellow;
+padding: 50px;
+border-style: double;
+border-color: blue;
+border-width: 30px;
+}

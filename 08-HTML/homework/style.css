@@ -1,0 +1,23 @@
+.encabezado{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.encabezado div{
+    margin: auto;
+}
+.foto img{
+    width: 80%;
+    height: 50%;
+    margin: auto ;
+    display: block;
+    border-style: double;
+    border-width: 10px;
+    border-color: gray;
+}
+.titulo{
+    text-align: center;
+}
+.datos{
+    background-color: beige;
+}

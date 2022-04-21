@@ -148,7 +148,3 @@ Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Pr
     </td>
   </tr>
 </table>
-
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***07_js-vi*** de Slack
