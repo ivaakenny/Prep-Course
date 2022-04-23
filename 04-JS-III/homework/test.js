@@ -99,3 +99,18 @@ var objetoMisterioso={
 var resultado=objetoMisterioso["numeroMisterioso"]*5;
 console.log(resultado);
 
+
+function String(string) {
+  this.string=string;
+}
+String.prototype.reverse= function(){
+  return this.String.reverse();
+}
+String
+
+
+var j= 'juan';
+
+console.log(j.slice(1))
+console.log(j.charAt(0).toUpperCase())
+console.log(j.charAt(0).toUpperCase()+j.slice(1))
